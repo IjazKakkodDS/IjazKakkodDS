@@ -2,7 +2,7 @@
 
 **Actuarial Analyst → Data Scientist**  
 MSc in Data Science & Analytics | 6+ years experience in Forecasting, ML, XAI, and Cloud Deployments  
-London, UK | [Email](mailto:ijazkakkod@gmail.com) | [LinkedIn](https://linkedin.com/in/ijazkakkod) | [Portfolio](https://notion.so/ijazkakkod) | [GitHub](https://github.com/ijazkakkod)
+London, UK | [Email](mailto:ijazkakkod@gmail.com) | [LinkedIn](https://linkedin.com/in/ijazkakkod) | [Portfolio](https://notion.so/ijazkakkod) | [GitHub](https://github.com/IjazKakkodDS)
 
 ---
 
@@ -51,7 +51,11 @@ Dynamic ML app for live inference with DVC versioning and CI-integrated deployme
 **Visualization**: Tableau, Power BI, Seaborn, Matplotlib  
 **Tools**: Jupyter, VS Code, Notion, Postman, SQLite
 
----
+<h2>Core Technical Skills (Visual)</h2>
+
+<img src="https://raw.githubusercontent.com/IjazKakkodDS/IjazKakkodDS/main/technical_skills.png" width="600"/>
+
+<hr>
 
 ## Experience Highlights
 
