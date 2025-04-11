@@ -1,8 +1,8 @@
 # Ijaz Kakkod
 
 **Actuarial Analyst turned Data Scientist**  
-MSc in Data Science & Analytics | 6+ years of experience in Forecasting, Machine Learning, Explainable AI, and Cloud Deployments  
-London, UK | [Email](mailto:ijazkakkod@gmail.com) | [LinkedIn](https://linkedin.com/in/ijazkakkod) | [Portfolio](https://notion.so/ijazkakkod) | [GitHub](https://github.com/IjazKakkodDS)
+**MSc in Data Science & Analytics** | 6+ years of experience in Forecasting, Machine Learning, Explainable AI, and Cloud Deployments  
+**London, UK** | [Email](mailto:ijazkakkod@gmail.com) | [LinkedIn](https://linkedin.com/in/ijazkakkod) | [GitHub](https://github.com/IjazKakkodDS)
 
 ---
 
@@ -16,11 +16,11 @@ My work spans RAG-based LangChain agents, time-series forecasting, CI/CD automat
 
 ## ⚡ By the Numbers
 
-- 6+ years of expertise in analytics, ML, and financial modeling  
-- 4 production-grade AWS deployments  
-- 3 full-stack ML applications with integrated CI/CD  
-- 18% reduction in budget variance through automated forecasting  
-- 99.9% R² achieved in a credit risk model  
+- 6+ Years of Expertise in Analytics, ML, and Financial Modeling  
+- 4 Production-Grade AWS Deployments  
+- 3 Full-Stack ML Applications with Integrated CI/CD  
+- 18% Reduction in Budget Variance Through Automated Forecasting  
+- Improved Loan Default Classification Accuracy by 12% Using Tuned Ensemble Models  
 
 ---
 
@@ -91,11 +91,14 @@ Curtin University, Australia | CWA: 70.0
 
 ---
 
-## Certifications
+📜 Certifications
+Data Scientist Machine Learning Specialisation Certification | Codecademy
+Nov 2024
+• Machine Learning, Feature Selection, Hyperparameter Optimization, SQL, Python (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn), Hypothesis Testing, A/B Testing
 
-- Machine Learning – Coursera  
-- SQL for Data Analysis – DataCamp  
-- Explainable AI (SHAP) – Udemy  
+Google Advanced Data Analytics Professional Certificate | Coursera
+May 2023
+• Data Analysis, Python, Machine Learning, Statistical Analysis, Tableau, Data Visualization, Predictive Modelling, EDA, Regression Models
 
 ---
 
@@ -103,13 +106,12 @@ Curtin University, Australia | CWA: 70.0
 
 - 6+ years of experience in analytics, machine learning, and financial modeling  
 - Developed 3 production-grade ML applications with integrated CI/CD pipelines and cloud deployments  
-- Achieved 99.9% R² in a credit scoring model trained on 1M+ records  
 - Reduced budget variance by 18% through an automated forecasting system  
-- Cut triage time by 33% at IBM using Python automation  
-- Built an AI-powered AutoML dashboard using LangChain and agentic architecture
+- Built an AI-powered AutoML dashboard using LangChain and agentic architecture  
+- Engineered a scalable credit risk model across 170+ features and 1M+ records with real-time inference support  
 
 ---
 
 ## Let's Connect
 
-📫 [Email](mailto:ijazkakkod@gmail.com) • [LinkedIn](https://linkedin.com/in/ijazkakkod) • [Portfolio](https://notion.so/ijazkakkod)
+📫 [Email](mailto:ijazkakkod@gmail.com) • [LinkedIn](https://linkedin.com/in/ijazkakkod)
